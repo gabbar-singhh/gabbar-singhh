@@ -1,4 +1,5 @@
 <!--  INTRODUCTION -->
+
 ## Hi, I'm Himanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![WEB DEVELOPER](https://user-images.githubusercontent.com/92101909/152692594-14ea1eb8-8585-405f-b6cf-0cfbd6119591.png)
@@ -13,7 +14,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dev-himanshu-01.dev-himanshu-01)
 
-
 <!--  SUMMARY-->
 <br/>
 
@@ -22,8 +22,8 @@
 <br/>
 <br/>
 
-
 <!--  LANGUAGE & TOOLS, I KNOW OR I USE-->
+
 **Languages and Tools:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,3 +40,5 @@
 <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <br />
+
+<!-- That's the New Normal ! -->
