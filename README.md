@@ -5,8 +5,8 @@
 ![WEB DEVELOPER](https://user-images.githubusercontent.com/92101909/152692594-14ea1eb8-8585-405f-b6cf-0cfbd6119591.png)
 
 <!--  SOCIAL LINKS-->
-<a href="https://twitter.com/iam__syd">
-  <img align="left" alt="Twitter: @iam__syd" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/garadiya0">
+  <img align="left" alt="Twitter: @garadiya0" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="mailto:himanshu01.dev@gmail.com">
   <img align="left" alt="SYD's email-ID" width="22px" src="https://user-images.githubusercontent.com/92101909/152697183-c0436490-3160-4f74-b4e8-8fa53ed4e5e5.png" />
