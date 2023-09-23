@@ -6,7 +6,7 @@
 
 <!--  SOCIAL LINKS-->
 <a href="https://twitter.com/garadiya0">
-  <img align="left" alt="Twitter: @garadiya0" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter: @garadiya0" width="25px" src="https://raw.githubusercontent.com/gabbar-singhh/my-project-images/main/github-repo/x-white.png.png" />
 </a>
   
   <a href="mailto:himanshu01.dev@gmail.com">
@@ -30,5 +30,5 @@
 <!-- That's the New Normal ! -->
 <br>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=garadiya0&label=Profile%20Views&color=7&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=gabbar-singhh&label=Profile%20Views&pretty=true" />
 </a>
