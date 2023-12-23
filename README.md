@@ -45,12 +45,12 @@
 **Latest Medium Article**
 
 <table>
+  <tr><td><a href="https://medium.com/@garadiya0/understanding-time-complexity-and-space-complexity-big-o-notation-explained-28bd8e09733b"><img width="120px" src="https://raw.githubusercontent.com/gabbar-singhh/my-project-images/main/portfolio-website/blogs/time-space-complexity.webp"></a></td>
+<td><a href="https://medium.com/@garadiya0/understanding-time-complexity-and-space-complexity-big-o-notation-explained-28bd8e09733b">Understanding Time and Space Complexity.</a> (Nov 25, 2023)<br/></td></tr>
 <tr><td><a href="https://medium.com/@garadiya0/how-to-add-styled-components-to-your-next-js-app-ac9c1270b469"><img width="120px" src="https://raw.githubusercontent.com/gabbar-singhh/my-project-images/main/portfolio-website/blogs/how-to-add-styled-components-to-next.png"></a></td>
 <td><a href="https://medium.com/@garadiya0/how-to-add-styled-components-to-your-next-js-app-ac9c1270b469">How to add styled-components to your Next.js App</a> (Aug 20, 2023)<br/></td></tr>
 <tr><td><a href="https://medium.com/@garadiya0/how-to-host-your-existing-next-js-app-to-vercel-5529ff89fb8f"><img width="120px" src="https://raw.githubusercontent.com/gabbar-singhh/my-project-images/main/portfolio-website/blogs/next-app-deploy-on-vercel.webp"></a></td>
 <td><a href="https://medium.com/@garadiya0/how-to-host-your-existing-next-js-app-to-vercel-5529ff89fb8f">How to host your existing Next.js app to Vercel</a> (Jul 19, 2023)<br/></td></tr>
-<tr><td><a href="https://medium.com/@garadiya0/how-to-add-a-top-loading-bar-in-next-js-ed56a13c78d"><img width="120px" src="https://raw.githubusercontent.com/gabbar-singhh/my-project-images/main/portfolio-website/blogs/add-a-top-loading-bar.webp"></a></td>
-<td><a href="https://medium.com/@garadiya0/how-to-add-a-top-loading-bar-in-next-js-ed56a13c78d">How to add a top loading bar in Next.js</a> (Jul 13, 2023)<br/></td></tr>
 
 </table>
 
