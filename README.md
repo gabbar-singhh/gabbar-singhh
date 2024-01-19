@@ -47,10 +47,12 @@
 <table>
   <tr><td><a href="https://medium.com/@garadiya0/understanding-time-complexity-and-space-complexity-big-o-notation-explained-28bd8e09733b"><img width="120px" src="https://raw.githubusercontent.com/gabbar-singhh/my-project-images/main/portfolio-website/blogs/time-space-complexity.webp"></a></td>
 <td><a href="https://medium.com/@garadiya0/understanding-time-complexity-and-space-complexity-big-o-notation-explained-28bd8e09733b">Understanding Time and Space Complexity.</a> (Nov 25, 2023)<br/></td></tr>
-<tr><td><a href="https://medium.com/@garadiya0/how-to-add-styled-components-to-your-next-js-app-ac9c1270b469"><img width="120px" src="https://raw.githubusercontent.com/gabbar-singhh/my-project-images/main/portfolio-website/blogs/how-to-add-styled-components-to-next.png"></a></td>
-<td><a href="https://medium.com/@garadiya0/how-to-add-styled-components-to-your-next-js-app-ac9c1270b469">How to add styled-components to your Next.js App</a> (Aug 20, 2023)<br/></td></tr>
-<tr><td><a href="https://medium.com/@garadiya0/how-to-host-your-existing-next-js-app-to-vercel-5529ff89fb8f"><img width="120px" src="https://raw.githubusercontent.com/gabbar-singhh/my-project-images/main/portfolio-website/blogs/next-app-deploy-on-vercel.webp"></a></td>
-<td><a href="https://medium.com/@garadiya0/how-to-host-your-existing-next-js-app-to-vercel-5529ff89fb8f">How to host your existing Next.js app to Vercel</a> (Jul 19, 2023)<br/></td></tr>
+
+ <tr><td><a href="https://medium.com/@garadiya0/what-is-frequency-counter-pattern-0ae30915053a"><img width="120px" src="https://github.com/gabbar-singhh/my-project-images/blob/main/portfolio-website/blogs/fcp.webp"></a></td>
+<td><a href="https://medium.com/@garadiya0/what-is-frequency-counter-pattern-0ae30915053a">What is Frequency Counter Pattern? Explained Like a 14-Year-Old!.</a> (Dec 25, 2023)<br/></td></tr>
+
+ <tr><td><a href="https://medium.com/@garadiya0/mastering-multiple-pointer-technique-293456bc819a"><img width="120px" src="https://github.com/gabbar-singhh/my-project-images/blob/main/portfolio-website/blogs/mutiple-pointer-pattern.webp"></a></td>
+<td><a href="https://medium.com/@garadiya0/mastering-multiple-pointer-technique-293456bc819a">Mastering Multiple Pointer Technique</a> (Jan 02, 2024)<br/></td></tr>
 
 </table>
 
